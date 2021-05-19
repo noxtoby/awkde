@@ -109,4 +109,5 @@ setup(
     install_requires=["numpy", "scipy", "scikit-learn", "pybind11", "future"],
     cmdclass={"build_ext": BuildExt},
     zip_safe=False,
+    packages=setuptools.find_packages(),
 )
