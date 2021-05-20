@@ -1,2 +1,2 @@
 [build-system]
-requires = ["setuptools", "pybind11", "numpy", "scipy", "scikit-learn", "pybind11", "future"]
+requires = ["setuptools", "pybind11", "numpy", "scipy", "scikit-learn", "future"]
